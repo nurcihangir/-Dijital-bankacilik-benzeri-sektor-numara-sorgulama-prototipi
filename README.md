@@ -3,6 +3,8 @@ Dijital bankacılık ve finans platformlarında dolandırıcılık risklerini ö
 
 
 https://github.com/user-attachments/assets/3cbc4ff1-144a-4b8b-87fb-314f0df0230e
-
+---
+### 🔒 Fikri Mülkiyet ve Gizlilik Bildirimi
+Bu proje ve içerdiği algoritma konsepti Fatma Nur Cihangiroğlu'na aittir. Güvenlik, telif ve fikri mülkiyet hakları nedeniyle çekirdek kaynak kodlar gizli tutulmakta olup; sistemin çalışma mantığı yukarıdaki demo videosunda sunulmuştur. All rights reserved.
 
 
